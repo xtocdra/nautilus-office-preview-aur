@@ -1,0 +1,21 @@
+pkgbase = nautilus-office-preview
+	pkgdesc = DOCX, XLSX and PPTX previews for GNOME Nautilus Sushi
+	pkgver = 1.0.0
+	pkgrel = 1
+	url = https://github.com/xtocdra/nautilus-office-preview
+	arch = any
+	license = 0BSD
+	license = Apache-2.0
+	license = BSD-3-Clause
+	license = ISC
+	license = MIT
+	license = MPL-2.0
+	license = Zlib
+	depends = sushi>=51.2
+	depends = gjs
+	depends = libadwaita
+	depends = webkitgtk-6.0
+	source = nautilus-office-preview-1.0.0.tar.gz::https://github.com/xtocdra/nautilus-office-preview/archive/refs/tags/v1.0.0.tar.gz
+	sha256sums = 544b90a38ea1a7a5f1b66d43894e76e4a0b96ca9ea9157f87a1f869e85ba1f18
+
+pkgname = nautilus-office-preview

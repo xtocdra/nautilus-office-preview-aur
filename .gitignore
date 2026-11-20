@@ -1,0 +1,5 @@
+/pkg/
+/src/
+*.pkg.tar.zst
+*.src.tar.gz
+nautilus-office-preview-*.tar.gz
